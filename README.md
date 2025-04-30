@@ -8,13 +8,18 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LikeCiastka&label=Profile%20Views&color=8A2BE2&style=flat&logo=github&labelColor=8A2BE2&color=ffffff&logoColor=white" alt="Profile Views"  />
+  <img src="https://komarev.com/ghpvc/?username=LikeCiastka&color=9B1C80" alt="Profile Views" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 10px 20px; border: 2px solid #9B1C80;" />
 </p>
+
+
+
+
+
+
 
 <hr style="border: 1px solid #8A2BE2; margin-top: 30px;"/>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8A2BE2; font-size: 18px;">
-   
   Let's connect, share ideas, and dive into exciting tech projects. 💡
 </p>
 
@@ -69,13 +74,7 @@ I believe that sometimes the best solutions come with a good cup of coffee and a
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.raspberrypi.org/favicon.ico" alt="Raspberry Pi" width="40" height="40"/>
   </a>
-  
- 
-  
-
-
 </p>
-
 
 <hr style="border: 1px solid #8A2BE2; margin-top: 30px;"/>
 
@@ -109,12 +108,3 @@ I believe that sometimes the best solutions come with a good cup of coffee and a
 
 ---
 
-### 🔗 Featured Projects:
-<p align="left">
-  <a href="https://github.com/LikeCiastka/project1" target="_blank">
-    <img src="https://img.shields.io/badge/Project%201-Featured-purple" alt="Project 1" />
-  </a>
-  <a href="https://github.com/LikeCiastka/project2" target="_blank">
-    <img src="https://img.shields.io/badge/Project%202-Featured-pink" alt="Project 2" />
-  </a>
-</p>
