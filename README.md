@@ -85,12 +85,9 @@ I believe that sometimes the best solutions come with a good cup of coffee and a
 
 ---
 
-### 🚀 Contribution Graph:
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=LikeCiastka&theme=radical&hide_border=true" alt="Susanne's GitHub Activity" />
-</p>
 
----
+
+
 
 ### 🔥 GitHub Streaks:
 <p align="center">
