@@ -26,7 +26,7 @@
 <hr style="border: 1px solid #8A2BE2; margin-top: 30px;"/>
 
 ### 🌱 Currently Learning:
-- **AI**, **Cybersecurity**, **Java**, **Cloud Computing**
+- **AI**, **Cybersecurity**,**Cloud Computing**
 
 ### 📫 How to Reach Me:
 - **Email**: [zuzannaweronikakargol@gmail.com](mailto:zuzannaweronikakargol@gmail.com)
