@@ -1,23 +1,4 @@
-<div align="center">
 
-```text
-        ♡₊˚ 🪽 𓂃 ࣪˖ ִֶָ🌸་༘࿐ ♡₊˚
-
-              ╭──────────────────────╮
-              │                      │
-              │       /\_/\\         │
-              │      ( ˶ᵔ ᵕ ᔔ˶ )     │
-              │       / >♡< \        │
-              │                      │
-              │      Z U Z A N N A   │
-              │                      │
-              │   soft girl,         │
-              │   hard problems ♡    │
-              │                      │
-              ╰──────────────────────╯
-
-        ♡₊˚ 🦋 𓂃 ࣪˖ ִֶָ☕་༘࿐ ♡₊˚
-```
 
 <h1 style="color:#6F4E7C;">
 🌷 Welcome to My Little Tech Universe! 💜
